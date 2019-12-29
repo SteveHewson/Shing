@@ -4,7 +4,8 @@ Hence the name: Shing.
 
 Currently works only with hosts that are active and accept ICMP requests.<br>
 Need to adapt the behaviour of the script to output custom responses to various error messages.<br>
-Here is a screenshot of shing.sh
+Here is a screenshot of shing.sh:<br>
+![alt_text](https://github.com/SteveHewson/Shing/blob/master/shing.png)
 
 ## Installation
 After downloading `shing.sh` run the following command to make an executable:
